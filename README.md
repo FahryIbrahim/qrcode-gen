@@ -1,3 +1,5 @@
+# English
+---
 # QR Code Generator with Optional Logo and Color Customization
 
 A simple script to generate QR codes based on user input. The generated QR code can optionally include a logo in the center or be customized with user-specified colors.
